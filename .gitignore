@@ -1,4 +1,4 @@
 *-lock.json
 node_modules
 swaggeDocs.json
-.env
+.env*
