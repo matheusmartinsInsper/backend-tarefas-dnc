@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node ./index.js",
     "dev": "npx nodemon ./index.js",
-    "autoDoc": "node ./swagger/autoGenDoc.js"
+    "autoDoc": "node ./index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
