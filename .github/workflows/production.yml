@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pegar código do Repositório
-        uses: actions/chackout@v3
+        uses: actions/checkout@v3
 
       - name: Instalação pacotes npm
         run: npm install
